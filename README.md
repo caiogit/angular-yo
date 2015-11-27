@@ -37,3 +37,11 @@ Run `grunt` for building and `grunt serve` for preview.
 ## Testing
 
 Running `grunt test` will run the unit tests with karma.
+
+## Link
+
+- [Angular Fiddles](https://github.com/angular/angular.js/wiki/JSFiddle-Examples)
+ - [Dynamic Forms](http://jsfiddle.net/buele/nYzjY/)
+ - [Table with limit and pagination](http://jsfiddle.net/SAWsA/11/)
+- [RESTful services Quick Tips](http://www.restapitutorial.com/lessons/restquicktips.html)
+- [Miredot: JSON API automatic documentation](http://www.miredot.com/exampledocs/#-300843329)
