@@ -11,10 +11,7 @@ See [GitHub page](https://github.com/yeoman/generator-angular)
 ```
 mkdir my-new-project && cd $_
 yo angular [app-name]
-grunt
-```
 
-```
 npm install -g grunt-cli bower yo generator-karma generator-angular
 
 npm ls
