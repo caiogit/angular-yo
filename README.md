@@ -45,3 +45,14 @@ Running `grunt test` will run the unit tests with karma.
  - [Table with limit and pagination](http://jsfiddle.net/SAWsA/11/)
 - [RESTful services Quick Tips](http://www.restapitutorial.com/lessons/restquicktips.html)
 - [Miredot: JSON API automatic documentation](http://www.miredot.com/exampledocs/#-300843329)
+
+## Pacchetti interessanti Bower
+
+- [Angular Translate](https://github.com/angular-translate/angular-translate)
+- [JQuery Validation](https://github.com/jzaefferer/jquery-validation)
+- [JQuery Select2](https://github.com/select2/select2) (ricercare select2 per angular)
+ - [Select2 / Bootstrap Integration](https://github.com/t0m/select2-bootstrap-css)
+- [JQuery Validation](https://github.com/jzaefferer/jquery-validation)
+- [Angular Local Storage](https://github.com/grevory/angular-local-storage): For using browser local storage
+- [Angular Bootsrap](https://github.com/angular-ui/bootstrap) Native AngularJS implementation of Bootstrap JS libs
+- [Angularitics](https://github.com/angulartics/angulartics): Analytics for AngularJS
