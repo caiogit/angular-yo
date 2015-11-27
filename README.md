@@ -17,6 +17,10 @@ npm install -g grunt-cli bower yo generator-karma generator-angular
 npm ls
 ? npm install phantomjs karma jasmine-core
 
+sudo apt-get install ruby ruby-dev
+sudo gem update --system
+sudo gem install compass
+
 grunt
 
 cd node_modules/grunt-contrib-imagemin/
