@@ -3,7 +3,7 @@
 This project is generated with [yo angular generator](https://github.com/yeoman/generator-angular)
 version 0.14.0.
 
-Following the guide: [yo angular tutorial](http://yeoman.io/codelab/). [Currently at step 0]
+Following the guide: [yo angular tutorial](http://yeoman.io/codelab/). [Currently at step 6]
 
 Check this guide too: [Creating a useful AngularJS project structure and toolchain](http://manuel.kiessling.net/2014/06/09/creating-a-useful-angularjs-project-structure-and-toolchain/)
 
