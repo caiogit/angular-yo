@@ -11,17 +11,27 @@ See [GitHub Yo Angular Generator page](https://github.com/yeoman/generator-angul
 
 ## PreBuild
 ```
+[
+sudo apt-get install ruby ruby-dev
+yum install ruby ruby-devel
+]
+
+sudo npm install -g npm
+sudo npm install -g grunt-cli bower yo generator-karma generator-angular
+
+sudo npm cache clean -f
+sudo npm install -g n
+sudo n stable
+
+sudo gem update --system
+sudo gem install compass
+
 mkdir my-new-project && cd $_
 yo angular [app-name]
 
-npm install -g grunt-cli bower yo generator-karma generator-angular
-
 npm ls
+npm install
 ? npm install phantomjs karma jasmine-core
-
-sudo apt-get install ruby ruby-dev
-sudo gem update --system
-sudo gem install compass
 
 grunt
 
