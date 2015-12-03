@@ -26,6 +26,9 @@ sudo n stable
 sudo gem update --system
 sudo gem install compass
 
+node --version && npm --version && bower --version && grunt --version && git --version && compass --version && yo --version
+yo doctor
+
 mkdir my-new-project && cd $_
 yo angular [app-name]
 
