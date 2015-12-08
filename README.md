@@ -34,7 +34,10 @@ yo angular [app-name]
 
 npm ls
 npm install
-? npm install phantomjs karma jasmine-core
+? npm install phantomjs
+? npm install jasmine-core
+? npm install karma
+
 
 grunt
 
