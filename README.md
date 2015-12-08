@@ -37,6 +37,7 @@ npm install
 ? npm install phantomjs
 ? npm install jasmine-core
 ? npm install karma
+? npm install log4js
 
 
 grunt
